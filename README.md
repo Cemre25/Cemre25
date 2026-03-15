@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Cemre, a Business Informatics graduate interested in **Data Analytics, Data Visualization and Data-Driven Applications**.
+Hi, I'm Cemre – a Business Informatics graduate interested in 
+software development, data analytics and building useful applications.
 
-I enjoy working with data, transforming raw datasets into meaningful insights and building interactive dashboards.
-
+I enjoy learning new technologies and turning ideas into projects.
 ---
 
 ### 🔧 Tech Stack
@@ -36,6 +36,7 @@ Here are some of the projects I am working on or have built:
 - **Data Analytics**
 - **Data Visualization**
 - Working more with **Python and data pipelines**
+- **Flutter**
 
 ---
 
