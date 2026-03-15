@@ -4,6 +4,7 @@ Hi, I'm Cemre – a Business Informatics graduate interested in
 software development, data analytics and building useful applications.
 
 I enjoy learning new technologies and turning ideas into projects.
+
 ---
 
 ### 🔧 Tech Stack
